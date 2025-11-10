@@ -63,9 +63,7 @@ build/
 *.backup
 *~
 
-# Empty root index.html (not part of portfolio)
-# Only ignore the root index.html, not the one in index/ folder
-/index.html
+
 
 # Setup instructions (not code)
 SETUP_GIT.md
